@@ -1,0 +1,15 @@
+If you run your script twice, does your database end up with duplicate rows? How did you prevent that?
+
+Answer: No,the dataset does not end up with duplicate rows when the script is run multiple times. That’s because duplicates are explicitly handled in the save_data() function inside data_pipeline.py.
+Here’s how it’s prevented:
+1. Each time the pipeline runs, it first loads the existing CSV data:
+existing_data = load_existing_data()
+2. Then it combines old and new data:
+combined_data = pd.concat([existing_data, new_data])
+3. After that, it removes duplicates using:
+combined_data.drop_duplicates(subset=["title", "source"], inplace=True)
+
+Why this works:
+A duplicate is defined as having the same title and source
+Even if the same article is fetched again from the API, it won’t be stored twice
+This ensures the CSV behaves like a deduplicated dataset
