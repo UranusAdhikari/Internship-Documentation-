@@ -1,0 +1,12 @@
+id,name,score,grade,passed,score_category,rank,subject
+6,Mina,95.0,A,True,High,1,Math
+2,Alice,90.0,A,True,High,2,Science
+9,Krishna,88.0,B,True,High,3,Computer
+1,Rohan,85.0,B,True,High,4,Math
+3,Bob,75.0,B,True,Medium,5,English
+8,John,55.0,C,True,Medium,6,English
+5,Ram,45.0,F,False,Low,7,Physics
+11,David,40.0,F,False,Low,8,Math
+7,Hari,0.0,F,False,Low,9,Science
+4,Sita,0.0,F,False,Low,9,Computer
+10,Anita,0.0,F,False,Low,9,Physics
