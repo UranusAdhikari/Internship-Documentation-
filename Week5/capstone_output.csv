@@ -1,0 +1,201 @@
+userId,id,title,completed,title_word_count,status,difficulty,task_rank
+1,1,Delectus Aut Autem,False,3,Pending,Easy,191.5
+1,2,Quis Ut Nam Facilis Et Officia Qui,False,7,Pending,Hard,73.5
+1,3,Fugiat Veniam Minus,False,3,Pending,Easy,191.5
+1,4,Et Porro Tempora,True,3,Completed,Easy,191.5
+1,5,Laboriosam Mollitia Et Enim Quasi Adipisci Quia Provident Illum,False,9,Pending,Hard,15.0
+1,6,Qui Ullam Ratione Quibusdam Voluptatem Quia Omnis,False,7,Pending,Hard,73.5
+1,7,Illo Expedita Consequatur Quia In,False,5,Pending,Medium,135.0
+1,8,Quo Adipisci Enim Quam Ut Ab,True,6,Completed,Medium,106.0
+1,9,Molestiae Perspiciatis Ipsa,False,3,Pending,Easy,191.5
+1,10,Illo Est Ratione Doloremque Quia Maiores Aut,True,7,Completed,Hard,73.5
+1,11,Vero Rerum Temporibus Dolor,True,4,Completed,Medium,166.5
+1,12,Ipsa Repellendus Fugit Nisi,True,4,Completed,Medium,166.5
+1,13,Et Doloremque Nulla,False,3,Pending,Easy,191.5
+1,14,Repellendus Sunt Dolores Architecto Voluptatum,True,5,Completed,Medium,135.0
+1,15,Ab Voluptatum Amet Voluptas,True,4,Completed,Medium,166.5
+1,16,Accusamus Eos Facilis Sint Et Aut Voluptatem,True,7,Completed,Hard,73.5
+1,17,Quo Laboriosam Deleniti Aut Qui,True,5,Completed,Medium,135.0
+1,18,Dolorum Est Consequatur Ea Mollitia In Culpa,False,7,Pending,Hard,73.5
+1,19,Molestiae Ipsa Aut Voluptatibus Pariatur Dolor Nihil,True,7,Completed,Hard,73.5
+1,20,Ullam Nobis Libero Sapiente Ad Optio Sint,True,7,Completed,Hard,73.5
+2,21,Suscipit Repellat Esse Quibusdam Voluptatem Incidunt,False,6,Pending,Medium,106.0
+2,22,Distinctio Vitae Autem Nihil Ut Molestias Quo,True,7,Completed,Hard,73.5
+2,23,Et Itaque Necessitatibus Maxime Molestiae Qui Quas Velit,False,8,Pending,Hard,42.0
+2,24,Adipisci Non Ad Dicta Qui Amet Quaerat Doloribus Ea,False,9,Pending,Hard,15.0
+2,25,Voluptas Quo Tenetur Perspiciatis Explicabo Natus,True,6,Completed,Medium,106.0
+2,26,Aliquam Aut Quasi,True,3,Completed,Easy,191.5
+2,27,Veritatis Pariatur Delectus,True,3,Completed,Easy,191.5
+2,28,Nesciunt Totam Sit Blanditiis Sit,False,5,Pending,Medium,135.0
+2,29,Laborum Aut In Quam,False,4,Pending,Medium,166.5
+2,30,Nemo Perspiciatis Repellat Ut Dolor Libero Commodi Blanditiis Omnis,True,9,Completed,Hard,15.0
+2,31,Repudiandae Totam In Est Sint Facere Fuga,False,7,Pending,Hard,73.5
+2,32,Earum Doloribus Ea Doloremque Quis,False,5,Pending,Medium,135.0
+2,33,Sint Sit Aut Vero,False,4,Pending,Medium,166.5
+2,34,Porro Aut Necessitatibus Eaque Distinctio,False,5,Pending,Medium,135.0
+2,35,Repellendus Veritatis Molestias Dicta Incidunt,True,5,Completed,Medium,135.0
+2,36,Excepturi Deleniti Adipisci Voluptatem Et Neque Optio Illum Ad,True,9,Completed,Hard,15.0
+2,37,Sunt Cum Tempora,False,3,Pending,Easy,191.5
+2,38,Totam Quia Non,False,3,Pending,Easy,191.5
+2,39,Doloremque Quibusdam Asperiores Libero Corrupti Illum Qui Omnis,False,8,Pending,Hard,42.0
+2,40,Totam Atque Quo Nesciunt,True,4,Completed,Medium,166.5
+3,41,Aliquid Amet Impedit Consequatur Aspernatur Placeat Eaque Fugiat Suscipit,False,9,Pending,Hard,15.0
+3,42,Rerum Perferendis Error Quia Ut Eveniet,False,6,Pending,Medium,106.0
+3,43,Tempore Ut Sint Quis Recusandae,True,5,Completed,Medium,135.0
+3,44,Cum Debitis Quis Accusamus Doloremque Ipsa Natus Sapiente Omnis,True,9,Completed,Hard,15.0
+3,45,Velit Soluta Adipisci Molestias Reiciendis Harum,False,6,Pending,Medium,106.0
+3,46,Vel Voluptatem Repellat Nihil Placeat Corporis,False,6,Pending,Medium,106.0
+3,47,Nam Qui Rerum Fugiat Accusamus,False,5,Pending,Medium,135.0
+3,48,Sit Reprehenderit Omnis Quia,False,4,Pending,Medium,166.5
+3,49,Ut Necessitatibus Aut Maiores Debitis Officia Blanditiis Velit Et,False,9,Pending,Hard,15.0
+3,50,Cupiditate Necessitatibus Ullam Aut Quis Dolor Voluptate,True,7,Completed,Hard,73.5
+3,51,Distinctio Exercitationem Ab Doloribus,False,4,Pending,Medium,166.5
+3,52,Nesciunt Dolorum Quis Recusandae Ad Pariatur Ratione,False,7,Pending,Hard,73.5
+3,53,Qui Labore Est Occaecati Recusandae Aliquid Quam,False,7,Pending,Hard,73.5
+3,54,Quis Et Est Ut Voluptate Quam Dolor,True,7,Completed,Hard,73.5
+3,55,Voluptatum Omnis Minima Qui Occaecati Provident Nulla Voluptatem Ratione,True,9,Completed,Hard,15.0
+3,56,Deleniti Ea Temporibus Enim,True,4,Completed,Medium,166.5
+3,57,Pariatur Et Magnam Ea Doloribus Similique Voluptatem Rerum Quia,False,9,Pending,Hard,15.0
+3,58,Est Dicta Totam Qui Explicabo Doloribus Qui Dignissimos,False,8,Pending,Hard,42.0
+3,59,Perspiciatis Velit Id Laborum Placeat Iusto Et Aliquam Odio,False,9,Pending,Hard,15.0
+3,60,Et Sequi Qui Architecto Ut Adipisci,True,6,Completed,Medium,106.0
+4,61,Odit Optio Omnis Qui Sunt,True,5,Completed,Medium,135.0
+4,62,Et Placeat Et Tempore Aspernatur Sint Numquam,False,7,Pending,Hard,73.5
+4,63,Doloremque Aut Dolores Quidem Fuga Qui Nulla,True,7,Completed,Hard,73.5
+4,64,Voluptas Consequatur Qui Ut Quia Magnam Nemo Esse,False,8,Pending,Hard,42.0
+4,65,Fugiat Pariatur Ratione Ut Asperiores Necessitatibus Magni,False,7,Pending,Hard,73.5
+4,66,Rerum Eum Molestias Autem Voluptatum Sit Optio,False,7,Pending,Hard,73.5
+4,67,Quia Voluptatibus Voluptatem Quos Similique Maiores Repellat,False,7,Pending,Hard,73.5
+4,68,Aut Id Perspiciatis Voluptatem Iusto,False,5,Pending,Medium,135.0
+4,69,Doloribus Sint Dolorum Ab Adipisci Itaque Dignissimos Aliquam Suscipit,False,9,Pending,Hard,15.0
+4,70,Ut Sequi Accusantium Et Mollitia Delectus Sunt,False,7,Pending,Hard,73.5
+4,71,Aut Velit Saepe Ullam,False,4,Pending,Medium,166.5
+4,72,Praesentium Facilis Facere Quis Harum Voluptatibus Voluptatem Eum,False,8,Pending,Hard,42.0
+4,73,Sint Amet Quia Totam Corporis Qui Exercitationem Commodi,True,8,Completed,Hard,42.0
+4,74,Expedita Tempore Nobis Eveniet Laborum Maiores,False,6,Pending,Medium,106.0
+4,75,Occaecati Adipisci Est Possimus Totam,False,5,Pending,Medium,135.0
+4,76,Sequi Dolorem Sed,True,3,Completed,Easy,191.5
+4,77,Maiores Aut Nesciunt Delectus Exercitationem Vel Assumenda Eligendi At,False,9,Pending,Hard,15.0
+4,78,Reiciendis Est Magnam Amet Nemo Iste Recusandae Impedit Quaerat,False,9,Pending,Hard,15.0
+4,79,Eum Ipsa Maxime Ut,True,4,Completed,Medium,166.5
+4,80,Tempore Molestias Dolores Rerum Sequi Voluptates Ipsum Consequatur,True,8,Completed,Hard,42.0
+5,81,Suscipit Qui Totam,True,3,Completed,Easy,191.5
+5,82,Voluptates Eum Voluptas Et Dicta,False,5,Pending,Medium,135.0
+5,83,Quidem At Rerum Quis Ex Aut Sit Quam,True,8,Completed,Hard,42.0
+5,84,Sunt Veritatis Ut Voluptate,False,4,Pending,Medium,166.5
+5,85,Et Quia Ad Iste A,True,5,Completed,Medium,135.0
+5,86,Incidunt Ut Saepe Autem,True,4,Completed,Medium,166.5
+5,87,Laudantium Quae Eligendi Consequatur Quia Et Vero Autem,True,8,Completed,Hard,42.0
+5,88,Vitae Aut Excepturi Laboriosam Sint Aliquam Et Et Accusantium,False,9,Pending,Hard,15.0
+5,89,Sequi Ut Omnis Et,True,4,Completed,Medium,166.5
+5,90,Molestiae Nisi Accusantium Tenetur Dolorem Et,True,6,Completed,Medium,106.0
+5,91,Nulla Quis Consequatur Saepe Qui Id Expedita,True,7,Completed,Hard,73.5
+5,92,In Omnis Laboriosam,True,3,Completed,Easy,191.5
+5,93,Odio Iure Consequatur Molestiae Quibusdam Necessitatibus Quia Sint,True,8,Completed,Hard,42.0
+5,94,Facilis Modi Saepe Mollitia,False,4,Pending,Medium,166.5
+5,95,Vel Nihil Et Molestiae Iusto Assumenda Nemo Quo Ut,True,9,Completed,Hard,15.0
+5,96,Nobis Suscipit Ducimus Enim Asperiores Voluptas,False,6,Pending,Medium,106.0
+5,97,Dolorum Laboriosam Eos Qui Iure Aliquam,False,6,Pending,Medium,106.0
+5,98,Debitis Accusantium Ut Quo Facilis Nihil Quis Sapiente Necessitatibus,True,9,Completed,Hard,15.0
+5,99,Neque Voluptates Ratione,False,3,Pending,Easy,191.5
+5,100,Excepturi A Et Neque Qui Expedita Vel Voluptate,False,8,Pending,Hard,42.0
+6,101,Explicabo Enim Cumque Porro Aperiam Occaecati Minima,False,7,Pending,Hard,73.5
+6,102,Sed Ab Consequatur,False,3,Pending,Easy,191.5
+6,103,Non Sunt Delectus Illo Nulla Tenetur Enim Omnis,False,8,Pending,Hard,42.0
+6,104,Excepturi Non Laudantium Quo,False,4,Pending,Medium,166.5
+6,105,Totam Quia Dolorem Et Illum Repellat Voluptas Optio,True,8,Completed,Hard,42.0
+6,106,Ad Illo Quis Voluptatem Temporibus,True,5,Completed,Medium,135.0
+6,107,Praesentium Facilis Omnis Laudantium Fugit Ad Iusto Nihil Nesciunt,False,9,Pending,Hard,15.0
+6,108,A Eos Eaque Nihil Et Exercitationem Incidunt Delectus,True,8,Completed,Hard,42.0
+6,109,Autem Temporibus Harum Quisquam In Culpa,True,6,Completed,Medium,106.0
+6,110,Aut Aut Ea Corporis,True,4,Completed,Medium,166.5
+6,111,Magni Accusantium Labore Et Id Quis Provident,False,7,Pending,Hard,73.5
+6,112,Consectetur Impedit Quisquam Qui Deserunt Non Rerum Consequuntur Eius,False,9,Pending,Hard,15.0
+6,113,Quia Atque Aliquam Sunt Impedit Voluptatum Rerum Assumenda Nisi,False,9,Pending,Hard,15.0
+6,114,Cupiditate Quos Possimus Corporis Quisquam Exercitationem Beatae,False,7,Pending,Hard,73.5
+6,115,Sed Et Ea Eum,False,4,Pending,Medium,166.5
+6,116,Ipsa Dolores Vel Facilis Ut,True,5,Completed,Medium,135.0
+6,117,Sequi Quae Est Et Qui Qui Eveniet Asperiores,False,8,Pending,Hard,42.0
+6,118,Quia Modi Consequatur Vero Fugiat,False,5,Pending,Medium,135.0
+6,119,Corporis Ducimus Ea Perspiciatis Iste,False,5,Pending,Medium,135.0
+6,120,Dolorem Laboriosam Vel Voluptas Et Aliquam Quasi,False,7,Pending,Hard,73.5
+7,121,Inventore Aut Nihil Minima Laudantium Hic Qui Omnis,True,8,Completed,Hard,42.0
+7,122,Provident Aut Nobis Culpa,True,4,Completed,Medium,166.5
+7,123,Esse Et Quis Iste Est Earum Aut Impedit,False,8,Pending,Hard,42.0
+7,124,Qui Consectetur Id,False,3,Pending,Easy,191.5
+7,125,Aut Quasi Autem Iste Tempore Illum Possimus,False,7,Pending,Hard,73.5
+7,126,Ut Asperiores Perspiciatis Veniam Ipsum Rerum Saepe,True,7,Completed,Hard,73.5
+7,127,Voluptatem Libero Consectetur Rerum Ut,True,5,Completed,Medium,135.0
+7,128,Eius Omnis Est Qui Voluptatem Autem,False,6,Pending,Medium,106.0
+7,129,Rerum Culpa Quis Harum,False,4,Pending,Medium,166.5
+7,130,Nulla Aliquid Eveniet Harum Laborum Libero Alias Ut Unde,True,9,Completed,Hard,15.0
+7,131,Qui Ea Incidunt Quis,False,4,Pending,Medium,166.5
+7,132,Qui Molestiae Voluptatibus Velit Iure Harum Quisquam,True,7,Completed,Hard,73.5
+7,133,Et Labore Eos Enim Rerum Consequatur Sunt,True,7,Completed,Hard,73.5
+7,134,Molestiae Doloribus Et Laborum Quod Ea,False,6,Pending,Medium,106.0
+7,135,Facere Ipsa Nam Eum Voluptates Reiciendis Vero Qui,False,8,Pending,Hard,42.0
+7,136,Asperiores Illo Tempora Fuga Sed Ut Quasi Adipisci,False,8,Pending,Hard,42.0
+7,137,Qui Sit Non,False,3,Pending,Easy,191.5
+7,138,Placeat Minima Consequatur Rem Qui Ut,True,6,Completed,Medium,106.0
+7,139,Consequatur Doloribus Id Possimus Voluptas A Voluptatem,False,7,Pending,Hard,73.5
+7,140,Aut Consectetur In Blanditiis Deserunt Quia Sed Laboriosam,True,8,Completed,Hard,42.0
+8,141,Explicabo Consectetur Debitis Voluptates Quas Quae Culpa Rerum Non,True,9,Completed,Hard,15.0
+8,142,Maiores Accusantium Architecto Necessitatibus Reiciendis Ea Aut,True,7,Completed,Hard,73.5
+8,143,Eum Non Recusandae Cupiditate Animi,False,5,Pending,Medium,135.0
+8,144,Ut Eum Exercitationem Sint,False,4,Pending,Medium,166.5
+8,145,Beatae Qui Ullam Incidunt Voluptatem Non Nisi Aliquam,False,8,Pending,Hard,42.0
+8,146,Molestiae Suscipit Ratione Nihil Odio Libero Impedit Vero Totam,True,9,Completed,Hard,15.0
+8,147,Eum Itaque Quod Reprehenderit Et Facilis Dolor Autem Ut,True,9,Completed,Hard,15.0
+8,148,Esse Quas Et Quo Quasi Exercitationem,False,6,Pending,Medium,106.0
+8,149,Animi Voluptas Quod Perferendis Est,False,5,Pending,Medium,135.0
+8,150,Eos Amet Tempore Laudantium Fugit A,False,6,Pending,Medium,106.0
+8,151,Accusamus Adipisci Dicta Qui Quo Ea Explicabo Sed Vero,True,9,Completed,Hard,15.0
+8,152,Odit Eligendi Recusandae Doloremque Cumque Non,False,6,Pending,Medium,106.0
+8,153,Ea Aperiam Consequatur Qui Repellat Eos,False,6,Pending,Medium,106.0
+8,154,Rerum Non Ex Sapiente,True,4,Completed,Medium,166.5
+8,155,Voluptatem Nobis Consequatur Et Assumenda Magnam,True,6,Completed,Medium,106.0
+8,156,Nam Quia Quia Nulla Repellat Assumenda Quibusdam Sit Nobis,True,9,Completed,Hard,15.0
+8,157,Dolorem Veniam Quisquam Deserunt Repellendus,True,5,Completed,Medium,135.0
+8,158,Debitis Vitae Delectus Et Harum Accusamus Aut Deleniti A,True,9,Completed,Hard,15.0
+8,159,Debitis Adipisci Quibusdam Aliquam Sed Dolore Ea Praesentium Nobis,True,9,Completed,Hard,15.0
+8,160,Et Praesentium Aliquam Est,False,4,Pending,Medium,166.5
+9,161,Ex Hic Consequuntur Earum Omnis Alias Ut Occaecati Culpa,True,9,Completed,Hard,15.0
+9,162,Omnis Laboriosam Molestias Animi Sunt Dolore,True,6,Completed,Medium,106.0
+9,163,Natus Corrupti Maxime Laudantium Et Voluptatem Laboriosam Odit,False,8,Pending,Hard,42.0
+9,164,Reprehenderit Quos Aut Aut Consequatur Est Sed,False,7,Pending,Hard,73.5
+9,165,Fugiat Perferendis Sed Aut Quidem,False,5,Pending,Medium,135.0
+9,166,Quos Quo Possimus Suscipit Minima Ut,False,6,Pending,Medium,106.0
+9,167,Et Quis Minus Quo A Asperiores Molestiae,False,7,Pending,Hard,73.5
+9,168,Recusandae Quia Qui Sunt Libero,False,5,Pending,Medium,135.0
+9,169,Ea Odio Perferendis Officiis,True,4,Completed,Medium,166.5
+9,170,Quisquam Aliquam Quia Doloribus Aut,False,5,Pending,Medium,135.0
+9,171,Fugiat Aut Voluptatibus Corrupti Deleniti Velit Iste Odio,True,8,Completed,Hard,42.0
+9,172,Et Provident Amet Rerum Consectetur Et Voluptatum,False,7,Pending,Hard,73.5
+9,173,Harum Ad Aperiam Quis,False,4,Pending,Medium,166.5
+9,174,Similique Aut Quo,False,3,Pending,Easy,191.5
+9,175,Laudantium Eius Officia Perferendis Provident Perspiciatis Asperiores,True,7,Completed,Hard,73.5
+9,176,Magni Soluta Corrupti Ut Maiores Rem Quidem,False,7,Pending,Hard,73.5
+9,177,Et Placeat Temporibus Voluptas Est Tempora Quos Quibusdam,False,8,Pending,Hard,42.0
+9,178,Nesciunt Itaque Commodi Tempore,True,4,Completed,Medium,166.5
+9,179,Omnis Consequuntur Cupiditate Impedit Itaque Ipsam Quo,True,7,Completed,Hard,73.5
+9,180,Debitis Nisi Et Dolorem Repellat Et,True,6,Completed,Medium,106.0
+10,181,Ut Cupiditate Sequi Aliquam Fuga Maiores,False,6,Pending,Medium,106.0
+10,182,Inventore Saepe Cumque Et Aut Illum Enim,True,7,Completed,Hard,73.5
+10,183,Omnis Nulla Eum Aliquam Distinctio,True,5,Completed,Medium,135.0
+10,184,Molestias Modi Perferendis Perspiciatis,False,4,Pending,Medium,166.5
+10,185,Voluptates Dignissimos Sed Doloribus Animi Quaerat Aut,False,7,Pending,Hard,73.5
+10,186,Explicabo Odio Est Et,False,4,Pending,Medium,166.5
+10,187,Consequuntur Animi Possimus,False,3,Pending,Easy,191.5
+10,188,Vel Non Beatae Est,True,4,Completed,Medium,166.5
+10,189,Culpa Eius Et Voluptatem Et,True,5,Completed,Medium,135.0
+10,190,Accusamus Sint Iusto Et Voluptatem Exercitationem,True,6,Completed,Medium,106.0
+10,191,Temporibus Atque Distinctio Omnis Eius Impedit Tempore Molestias Pariatur,True,9,Completed,Hard,15.0
+10,192,Ut Quas Possimus Exercitationem Sint Voluptates,False,6,Pending,Medium,106.0
+10,193,Rerum Debitis Voluptatem Qui Eveniet Tempora Distinctio A,True,8,Completed,Hard,42.0
+10,194,Sed Ut Vero Sit Molestiae,False,5,Pending,Medium,135.0
+10,195,Rerum Ex Veniam Mollitia Voluptatibus Pariatur,True,6,Completed,Medium,106.0
+10,196,Consequuntur Aut Ut Fugit Similique,True,5,Completed,Medium,135.0
+10,197,Dignissimos Quo Nobis Earum Saepe,True,5,Completed,Medium,135.0
+10,198,Quis Eius Est Sint Explicabo,True,5,Completed,Medium,135.0
+10,199,Numquam Repellendus A Magnam,True,4,Completed,Medium,166.5
+10,200,Ipsam Aperiam Voluptates Qui,False,4,Pending,Medium,166.5

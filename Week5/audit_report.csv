@@ -1,0 +1,6 @@
+Issue Type,Issues Found,Issues Fixed,Before Row Count,After Row Count
+Null Values,1,1,101,98
+Duplicate Rows,1,1,101,98
+Type Mismatches,1,1,101,98
+Outliers,1,1,101,98
+String Format Issues,1,1,101,98
